@@ -5,7 +5,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>net.clonecomputers.lab</groupId>
    <artifactId>SubgroupLTester</artifactId>
-   <version>0.0.1-SNAPSHOT</version>
+   <version>1.0.0</version>
    <name>Subgroup l Tester</name>
    <description>Computes the l of tuples of subgroups</description>
 
