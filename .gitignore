@@ -1,3 +1,6 @@
+#For Project
+data*.csv
+
 #For Maven
 dependency-reduced-pom.xml
 /target
