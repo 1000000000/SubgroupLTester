@@ -27,7 +27,7 @@ public class SubgroupLTester implements Runnable {
 		File outputFile = new File("data.csv");
 		int a = 0;
 		while(outputFile.exists()) {
-			outputFile = new File(“data-“ + ++a + ".csv");
+			outputFile = new File("data-" + ++a + ".csv");
 		}
 		CSVPrinter p = null;
 		try {
